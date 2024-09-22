@@ -1,0 +1,4 @@
+test/jars/gcs-connector-hadoop3-2.2.17-shaded.jar
+test/.terraform/*
+./.terraform/*
+.terraform.lock.hcl
